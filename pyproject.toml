@@ -3,9 +3,9 @@ requires = ["setuptools>=45", "wheel", "setuptools_scm[toml]>=6.2"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "pyftools"
+name = "pyftools-stata"
 version = "0.1.1"
-description = "Python implementation of ftools - Fast data manipulation tools"
+description = "Python implementation of Stata's ftools - Fast data manipulation tools"
 readme = "README.md"
 license = "MIT"
 authors = [
@@ -28,6 +28,7 @@ classifiers = [
     "Programming Language :: Python :: 3.10",
     "Programming Language :: Python :: 3.11",
     "Programming Language :: Python :: 3.12",
+        "Programming Language :: Python :: 3.13",
     "Operating System :: OS Independent",
 ]
 requires-python = ">=3.8"
