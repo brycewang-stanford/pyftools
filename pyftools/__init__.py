@@ -4,7 +4,7 @@ PyFtools - Python implementation of ftools
 Fast data manipulation tools inspired by Stata's ftools package.
 """
 
-__version__ = "0.1.1"
+__version__ = "0.2.0"
 __author__ = "Bryce Wang, Collin Liu"
 __email__ = "brycew6m@stanford.edu, junnebailiu@gmail.com"
 
