@@ -10,7 +10,7 @@ readme = "README.md"
 license = "MIT"
 authors = [
     {name = "Bryce Wang", email = "brycew6m@stanford.edu"},
-    {name = "Collin Liu"}
+    {name = "Collin Liu", email = "junnebailiu@gmail.com"}
 ]
 maintainers = [
     {name = "Bryce Wang", email = "brycew6m@stanford.edu"}
